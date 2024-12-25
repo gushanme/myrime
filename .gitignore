@@ -1,5 +1,12 @@
 build/
 weasel-*/
+sync/
+terra_pinyin.userdb/
+melt_eng.userdb/
+pinyin_simp.userdb/
+luna_pinyin.userdb/
+rime_frost.userdb/
+boheme.userdb/
 user.yaml
 installation.yaml
 custom_phrase.txt
