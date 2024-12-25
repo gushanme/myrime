@@ -1,0 +1,11 @@
+git仓库里面不放custom_phrase.txt文件要自己新建
+内容例：
+# Rime table
+#@/db_name  custom_phrase.txt
+#@/db_type  tabledb
+#@/tick 13
+Amazon  amazon  0
+bing  bing  0
+
+
+注意修改installation.yaml文件李的ID，保持和同步文件夹里面的一致

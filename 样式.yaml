@@ -1,0 +1,307 @@
+##需要将shadow_radius: 10设置一个大于 0 的值，才能显示阴影的偏移效果
+whale:
+  name: 鲸鱼／whale
+  author: 空山明月 <sqqlove123@163.com>
+  back_color: 0xD4A791
+  border_color: 0x665851
+  text_color: 0x7E4E0F
+  hilited_text_color: 0x7E4E0F
+  hilited_back_color: 0xCAD9E8
+  hilited_candidate_text_color: 0xCAD9E8
+  hilited_candidate_back_color: 0xC48466
+  hilited_comment_text_color: 0x665851
+  candidate_text_color: 0x7E4E0F
+  comment_text_color: 0x665851
+  ## 针对 Fxliang 版本的阴影效果
+  # shadow_color: 0x6b000000 # 背景阴影
+  # hilited_shadow_color: 0x6b000000  # 高亮编码阴影
+  # hilited_candidate_shadow_color: 0x6b000000  # 高亮候选阴影
+
+zhihu:
+  name: 知乎／zhihu
+  author: 空山明月 <sqqlove123@163.com>
+  back_color: 0xFFFFFF
+  border_color: 0xDFDFDF
+  text_color: 0xE86D05
+  hilited_text_color: 0xE86D05
+  hilited_back_color: 0xFFFFFF
+  hilited_candidate_text_color: 0xFFFFFF
+  hilited_candidate_back_color: 0xE86D05
+  hilited_comment_text_color: 0xFFFFFF
+  candidate_text_color: 0x444444
+  comment_text_color: 0x444444
+
+orange_heart:
+  name: 橙心／orange_heart
+  author: 空山明月 <sqqlove123@163.com>
+  back_color: 0xE7E8EA
+  border_color: 0x747474
+  text_color: 0x2C2C2D
+  hilited_text_color: 0x4471D8
+  hilited_back_color: 0x2C2C2D
+  hilited_candidate_text_color: 0x4471D8
+  hilited_candidate_back_color: 0x2C2C2D
+  candidate_text_color: 0x2C2C2D
+  comment_text_color: 0x8D96A5
+
+wechat:
+  name: 微信／wechat
+  author: 空山明月 <sqqlove123@163.com>
+  back_color: 0xFFFFFF
+  border_color: 0x9F9F9F
+  text_color: 0x202121
+  hilited_label_color: 0xDBDBDB
+  hilited_text_color: 0x202121
+  hilited_back_color: 0xE4EBF0
+  hilited_candidate_text_color: 0xF8FBF4
+  hilited_candidate_back_color: 0x78AF22 # 微信绿 0x78AF22，魅蓝紫 0xC73262，活力橙 0x2283D9
+  hilited_comment_text_color: 0xDBDBDB
+  candidate_text_color: 0x555555
+  comment_text_color: 0x9F9F9F
+
+whale:
+  name: 鲸鱼／whale
+  author: 空山明月 <sqqlove123@163.com>
+  back_color: 0xD4A791
+  border_color: 0x665851
+  text_color: 0x7E4E0F
+  hilited_text_color: 0x7E4E0F
+  hilited_back_color: 0xCAD9E8
+  hilited_candidate_text_color: 0xCAD9E8
+  hilited_candidate_back_color: 0xC48466
+  hilited_comment_text_color: 0x665851
+  candidate_text_color: 0x7E4E0F
+  comment_text_color: 0x665851
+
+sakura:
+  name: 樱花／sakura
+  author: 空山明月 <sqqlove123@163.com>
+  text_color: 0x7264D3
+  back_color: 0xEBE1F6
+  border_color: 0x8C7CDB
+  candidate_back_color: 0xEBE1F6
+  comment_text_color: 0x7264D3
+  hilited_comment_text_color: 0x2B2270
+  label_color: 0x7264D3
+  hilited_label_color: 0x2B2270
+  hilited_mark_color: 0x2B2270
+  hilited_text_color: 0x2B2270
+  hilited_back_color: 0xC4BEF0
+  hilited_candidate_text_color: 0x2B2270
+  hilited_candidate_back_color: 0xC4BEF0
+starbucks:
+  name: 星巴克／starbucks
+  author: 空山明月 <sqqlove123@163.com>
+  back_color: 0x517400
+  border_color: 0x000000
+  text_color: 0xFFFFFF
+  hilited_text_color: 0xFFFFFF
+  hilited_back_color: 0x000000
+  hilited_candidate_text_color: 0xFFFFFF
+  hilited_candidate_back_color: 0x000000
+  hilited_comment_text_color: 0xFFFFFF
+  candidate_text_color: 0x000000
+  comment_text_color: 0x000000
+
+avocado:
+  name: 牛油果／avocado
+  author: 空山明月 <sqqlove123@163.com>
+  back_color: 0xA3DEC9
+  border_color: 0x013758
+  text_color: 0x276370
+  hilited_text_color: 0x276370
+  hilited_back_color: 0x6DB7A8
+  hilited_candidate_text_color: 0x72F2FF
+  hilited_candidate_back_color: 0x5C9474
+  hilited_comment_text_color: 0x72F2FF
+  candidate_text_color: 0x276370
+  comment_text_color: 0x25616E
+
+cactus:
+  name: 仙人掌／cactus
+  author: 空山明月 <sqqlove123@163.com>
+  back_color: 0xD5E7CA
+  border_color: 0x508027
+  text_color: 0x508027
+  hilited_text_color: 0x508027
+  hilited_back_color: 0xB2CD95
+  hilited_candidate_text_color: 0x925DCF
+  hilited_candidate_back_color: 0xB2CD95
+  hilited_comment_text_color: 0x925DCF
+  candidate_text_color: 0x508027
+  comment_text_color: 0x508027
+peaceful:
+  name: 宁静致远／peaceful
+  author: 空山明月 <sqqlove123@163.com>
+  back_color: 0xEEF5FE
+  border_color: 0x5F689A
+  text_color: 0x4D5277
+  hilited_text_color: 0x2A2742
+  hilited_back_color: 0xA1BAD7
+  hilited_candidate_text_color: 0x2A2742
+  hilited_candidate_back_color: 0xA1BAD7
+  hilited_comment_text_color: 0x2A2742
+  candidate_text_color: 0x4D5277
+  comment_text_color: 0x4D5277
+
+sunflower:
+  name: 向日葵／sunflower
+  author: 空山明月 <sqqlove123@163.com>
+  text_color: 0x32567F
+  back_color: 0x6CD7FD
+  border_color: 0x3C5181
+  candidate_back_color: 0x6CD7FD
+  comment_text_color: 0x32567F
+  hilited_comment_text_color: 0x151094
+  label_color: 0x32567F
+  hilited_label_color: 0x151094
+  hilited_mark_color: 0x32567F
+  hilited_text_color: 0x32567F
+  hilited_back_color: 0x6CD7FD
+  hilited_candidate_text_color: 0x151094
+  hilited_candidate_back_color: 0x65C8F9
+  hilited_candidate_border_color: 0x6DFDFE
+
+butter:
+  name: 奶油／butter
+  author: 空山明月 <sqqlove123@163.com>
+  back_color: 0xCAFDFF
+  border_color: 0x535C5C
+  text_color: 0x535C5C
+  hilited_text_color: 0xD3F0F0
+  hilited_back_color: 0xB1B2B2
+  hilited_candidate_text_color: 0xD3F0F0
+  hilited_candidate_back_color: 0x141516
+  candidate_text_color: 0x535C5C
+  comment_text_color: 0x8B9090
+
+morning:
+  name: 清晨／morning
+  author: 空山明月 <sqqlove123@163.com>
+  text_color: 0x989898
+  back_color: 0xF7F7F7
+  border_color: 0x82A167
+  candidate_back_color: 0xF7F7F7
+  comment_text_color: 0x989898
+  hilited_comment_text_color: 0x4D4D4D
+  label_color: 0x989898
+  hilited_label_color: 0x4D4D4D
+  hilited_mark_color: 0x9BE0CC
+  hilited_text_color: 0x4D4D4D
+  hilited_back_color: 0x9BE0CC
+  hilited_candidate_text_color: 0x4D4D4D
+  hilited_candidate_back_color: 0x809A76
+
+pizza_hub:
+  name: 批萨屋／pizza_hub
+  author: 空山明月 <sqqlove123@163.com>
+  back_color: 0x0A0F13
+  border_color: 0x88BFD0
+  label_color: 0xFFFFFF
+  text_color: 0xFFFFFF
+  hilited_label_color: 0x000000
+  hilited_text_color: 0x000000
+  hilited_back_color: 0x038EE0
+  hilited_candidate_text_color: 0x000000
+  hilited_candidate_back_color: 0x038EE0
+  hilited_comment_text_color: 0x000000
+  candidate_text_color: 0xFFFFFF
+  comment_text_color: 0xB2C4CC
+
+magblue:
+  name: 魅蓝／magblue
+  author: 空山明月 <sqqlove123@163.com>
+  back_color: 0x3C2C2B
+  border_color: 0x5D4C50
+  text_color: 0xDFBDBC
+  hilited_text_color: 0x000000
+  hilited_back_color: 0xDFBDBC
+  hilited_candidate_text_color: 0xFFFFFF
+  hilited_candidate_back_color: 0xC73262
+  candidate_text_color: 0xD68381
+  comment_text_color: 0xDFBDBC
+
+silver_dust:
+  name: 银尘／silver_dust
+  author: 空山明月 <sqqlove123@163.com>
+  back_color: 0xF3F3F3
+  border_color: 0x1D1D1D
+  text_color: 0xFFFFFF
+  hilited_text_color: 0x000000
+  hilited_back_color: 0xDBDBDB
+  hilited_candidate_text_color: 0xFFFFFF
+  hilited_candidate_back_color: 0x1D1D1D
+  candidate_text_color: 0x645154
+  comment_text_color: 0x6B87A9
+
+avocado2:
+  name: 牛油果／avocado2
+  author: 空山明月 <sqqlove123@163.com>
+  text_color: 0x606C8C
+  back_color: 0xA3DEC9
+  border_color: 0x013758
+  candidate_back_color: 0xA3DEC9
+  comment_text_color: 0x606C8C
+  hilited_comment_text_color: 0x054173
+  label_color: 0x606C8C
+  hilited_label_color: 0x054173
+  hilited_mark_color: 0xE0F9FF 
+  hilited_text_color: 0x054173
+  hilited_back_color: 0x72F2FF
+  hilited_candidate_text_color: 0x054173
+  hilited_candidate_back_color: 0x72F2FF
+  hilited_candidate_border_color: 0x3EEC95
+
+bamboo:
+  # 霜干寒如玉，风枝响似琴。
+  name: 咏竹／bamboo
+  author: 空山明月 <sqqlove123@163.com>
+  text_color: 0x578664
+  back_color: 0xCFECF1
+  border_color: 0xBBD9C1
+  candidate_back_color: 0xCFECF1 
+  comment_text_color: 0x578664
+  hilited_comment_text_color: 0x253827
+  label_color: 0x578664
+  hilited_label_color: 0x253827
+  hilited_mark_color: 0xffffff
+  hilited_text_color: 0x253827
+  hilited_back_color: 0x6F9A80
+  hilited_candidate_text_color: 0x253827
+  hilited_candidate_back_color: 0x6F9A80
+
+cookie:
+  name: 饼干／cookie
+  author: 空山明月 <sqqlove123@163.com>
+  text_color: 0x426D96
+  back_color: 0x99D2FE
+  border_color: 0x000000
+  candidate_back_color: 0x99D2FE 
+  comment_text_color: 0x426D96
+  hilited_comment_text_color: 0x000000
+  label_color: 0x426D96
+  hilited_label_color: 0x000000
+  hilited_mark_color: 0xffffff
+  hilited_text_color: 0x000000
+  hilited_back_color: 0x5B99D8
+  hilited_candidate_text_color: 0x000000
+  hilited_candidate_back_color: 0x5B99D8
+  hilited_candidate_border_color: 0x426D96
+
+songhe:
+  name: 松鹤／songhe
+  author: 空山明月 <sqqlove123@163.com>
+  text_color: 0xB2CECC 
+  back_color: 0x4E7160
+  border_color: 0x38667D
+  candidate_back_color: 0x4E7160 
+  hilited_candidate_border_color: 0x434C50
+  comment_text_color: 0xB2CECC
+  hilited_comment_text_color: 0x263030
+  label_color: 0xB2CECC
+  hilited_label_color: 0x072FA9
+  hilited_mark_color: 0xffffff
+  hilited_text_color: 0xB2CECC
+  hilited_back_color: 0x26332C
+  hilited_candidate_text_color: 0x263030
+  hilited_candidate_back_color: 0xC0D9D7

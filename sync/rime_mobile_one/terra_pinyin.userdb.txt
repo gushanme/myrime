@@ -1,0 +1,285 @@
+# Rime user dictionary
+#@/db_name	terra_pinyin
+#@/db_type	userdb
+#@/rime_version	1.12.0
+#@/tick	481
+#@/user_id	rime_mobile_one
+an zhuo 	安卓	c=8 d=5.8992 t=481
+ang da 	昂达	c=1 d=0.985112 t=481
+ba 	吧	c=1 d=1 t=481
+bai 	白	c=1 d=0.980199 t=481
+bai du 	百度	c=1 d=0.932394 t=481
+ban ben 	版本	c=1 d=1 t=481
+bang yan 	榜眼	c=1 d=0.946485 t=481
+bei wei 	卑微	c=1 d=1 t=475
+ben tian 	本田	c=1 d=1 t=478
+bi jiao 	比较	c=1 d=0.995012 t=481
+bi ying 	必应	c=1 d=0.927743 t=481
+bian hao 	编号	c=1 d=1 t=446
+biao ge 	表格	c=1 d=1 t=481
+bing 	并	c=1 d=0.740818 t=481
+bing mei you 	并没有	c=1 d=0.802519 t=481
+bo fang 	播放	c=7 d=5.87064 t=481
+bo fang qi 	播放器	c=7 d=5.1106 t=481
+bu fen 	部分	c=1 d=0.946485 t=481
+bu guan 	不管	c=1 d=1 t=444
+bu hao 	不好	c=1 d=1 t=447
+bu hui 	不会	c=1 d=0.980199 t=481
+bu ke 	不可	c=1 d=0.782705 t=481
+bu wen 	不问	c=1 d=1 t=445
+bu yao 	不要	c=1 d=0.873716 t=481
+bu zhi chi 	不支持	c=1 d=0.955997 t=481
+cai dan lan 	菜单栏	c=1 d=0.88692 t=481
+cha kan 	查看	c=1 d=0.895834 t=481
+chen 	晨	c=1 d=0.995012 t=481
+chen 	沈	c=1 d=0.97531 t=481
+chen yi fa er 	陈一发儿	c=1 d=1 t=481
+ci ku 	词库	c=4 d=3.74643 t=481
+dao 	到	c=2 d=1.86936 t=481
+dao zhi 	导致	c=1 d=0.985112 t=481
+de 	的	c=15 d=8.72251 t=481
+de bang 	德邦	c=1 d=1 t=439
+di yu 	地狱	c=1 d=0.995012 t=481
+dian shi 	电视	c=1 d=0.995012 t=481
+dian shi he zi 	电视盒子	c=2 d=1.89382 t=481
+ding yue 	订阅	c=1 d=0.965605 t=481
+diu shi 	丢失	c=1 d=1 t=481
+dong shi xiao pin 	东施效颦	c=1 d=0.99005 t=481
+duan 	端	c=8 d=6.78071 t=481
+duo duan 	多端	c=1 d=0.923116 t=481
+duo she bei 	多设备	c=3 d=2.75931 t=481
+en 	嗯	c=3 d=2.61273 t=481
+er zhe 	二者	c=1 d=0.946485 t=481
+fa lv 	法律	c=1 d=1 t=481
+fa xing ban 	发行版	c=4 d=3.82302 t=481
+fa yuan 	法院	c=1 d=1 t=480
+fang fa 	方法	c=3 d=2.72165 t=481
+fang wen 	访问	c=1 d=0.951229 t=481
+feng 	风	c=1 d=0.99005 t=481
+feng tian 	丰田	c=1 d=1 t=479
+fu 	伏	c=3 d=2.50035 t=481
+fu xuan 	复选	c=1 d=0.748264 t=481
+fu yan 	敷衍	c=2 d=1.8233 t=481
+fu yin 	府尹	c=1 d=0.99005 t=481
+gao pin 	高频	c=1 d=0.980199 t=481
+gao tong 	高通	c=1 d=0.970446 t=481
+gong ju 	工具	c=1 d=0.941765 t=481
+gong wu yuan 	公务员	c=1 d=1 t=481
+gu 	固	c=5 d=3.94507 t=481
+gu ji 	估计	c=1 d=0.97531 t=481
+gu ke 	顾客	c=1 d=1 t=464
+guan xi 	关系	c=1 d=0.985112 t=481
+guang 	广	c=4 d=3.9407 t=481
+guang gao 	广告	c=2 d=1.94605 t=481
+gui 	诡	c=2 d=1.60506 t=481
+gui ze 	规则	c=1 d=0.960789 t=481
+gun dong 	滚动	c=1 d=0.955997 t=481
+guo 	过	c=1 d=1 t=437
+ha ha 	哈哈	c=4 d=3.04732 t=481
+hai shi 	还是	c=1 d=0.970446 t=481
+hai si 	海思	c=1 d=1 t=481
+hao 	浩	c=3 d=2.80667 t=481
+hao de 	好的	c=1 d=0.88692 t=481
+hao jia huo 	好家伙	c=1 d=0.869358 t=481
+hao ru yan hai 	浩如烟海	c=2 d=1.99501 t=481
+hao zi wei zhi 	好自为之	c=1 d=0.99005 t=481
+he 	和	c=1 d=0.918512 t=481
+he nan 	河南	c=2 d=1.94575 t=481
+he zi 	盒子	c=2 d=1.94649 t=481
+hei hu hu 	黑乎乎	c=1 d=0.937067 t=481
+hong bai 	红白	c=1 d=0.980199 t=481
+hou 	后	c=2 d=1.76391 t=481
+hou lai 	后来	c=1 d=0.97531 t=481
+hu wai 	户外	c=2 d=1.97516 t=481
+hua qing 	华擎	c=1 d=0.97531 t=481
+hua shuo 	华硕	c=1 d=1 t=452
+hua wei 	华为	c=2 d=1.8481 t=481
+huo dong 	活动	c=1 d=0.995012 t=481
+ji yu 	基于	c=1 d=0.965605 t=481
+jia jia 	家家	c=1 d=0.970446 t=481
+jia su 	加速	c=3 d=2.41352 t=481
+jiang 	将	c=1 d=0.856415 t=481
+jiao 	较	c=1 d=0.941765 t=481
+jiao ben 	脚本	c=1 d=0.97531 t=481
+jie shou 	接收	c=2 d=1.80719 t=481
+jie ya suo 	解压缩	c=1 d=0.970446 t=481
+jin bai da 	金百达	c=1 d=0.99005 t=481
+jin xing 	进行	c=2 d=1.53186 t=481
+jing 	晶	c=1 d=0.99005 t=481
+jiu cai 	韭菜	c=1 d=1 t=481
+juan wang 	卷王	c=1 d=0.951229 t=481
+kai feng 	开封	c=1 d=0.985111 t=481
+kai qi 	开启	c=6 d=4.73464 t=481
+kai yuan 	开源	c=1 d=0.951229 t=481
+ke neng 	可能	c=1 d=0.985111 t=481
+ke wu 	可恶	c=1 d=0.955997 t=481
+ke xue 	科学	c=1 d=0.980199 t=481
+ke yi 	可以	c=1 d=0.99005 t=481
+ke yi ba 	可以把	c=1 d=0.97531 t=481
+kua ping tai 	跨平台	c=3 d=2.68737 t=481
+kua yue 	跨跃	c=1 d=1 t=443
+kuang 	框	c=1 d=0.752014 t=481
+kun kun 	坤坤	c=1 d=0.985112 t=481
+lao dong fa 	劳动法	c=1 d=0.900325 t=481
+lao wai 	老外	c=1 d=1 t=436
+li 	李	c=1 d=0.955997 t=481
+li yong 	利用	c=1 d=0.88692 t=481
+lie biao 	列表	c=2 d=1.81877 t=481
+liu 	刘	c=4 d=3.7439 t=481
+liu 	流	c=1 d=0.822835 t=481
+liu hao 	六号	c=1 d=0.913931 t=481
+liu lan qi 	浏览器	c=2 d=1.92168 t=481
+lu chu 	露出	c=1 d=0.995012 t=481
+lu xun 	鲁讯	c=1 d=1 t=449
+lu you qi 	路由器	c=2 d=1.99501 t=451
+ma 	吗	c=2 d=1.69333 t=481
+ma fan 	麻烦	c=1 d=0.960789 t=481
+man yi du 	满意度	c=1 d=1 t=465
+mei 	梅	c=3 d=2.52548 t=481
+mei you 	没有	c=5 d=4.11338 t=481
+ming bai 	明白	c=2 d=1.53443 t=481
+ming xuan 	铭瑄	c=1 d=0.970446 t=481
+mo ren 	默认	c=1 d=0.946485 t=481
+mu lu 	目录	c=2 d=1.80506 t=481
+na xie 	哪些	c=2 d=1.9459 t=481
+nei cun 	内存	c=2 d=1.99501 t=473
+neng 	能	c=1 d=0.782705 t=481
+ni hao ya 	你好呀	c=1 d=0.980199 t=481
+nian nian 	年年	c=2 d=1.95551 t=481
+ning wei bai fu zhang 	宁为百夫长	c=1 d=0.97531 t=481
+niu a 	牛啊	c=1 d=1 t=448
+pa 	怕	c=1 d=0.980199 t=481
+pai 	拍	c=1 d=0.985112 t=481
+pan duan 	判断	c=1 d=0.99005 t=481
+pei yang 	培养	c=3 d=2.89249 t=481
+peng 	鹏	c=2 d=1.81421 t=481
+pi pei 	匹配	c=1 d=1 t=481
+pian yao 	偏要	c=1 d=0.946485 t=481
+pin yin 	拼音	c=3 d=2.81604 t=481
+ping tou ge 	平头哥	c=1 d=1 t=474
+po 	破	c=2 d=1.92711 t=481
+qing qing chu chu 	清清楚楚	c=1 d=0.985111 t=481
+ran 	然	c=1 d=0.927743 t=481
+ren jia 	人家	c=1 d=1 t=435
+rong 	荣	c=3 d=2.51289 t=481
+ruan jian 	软件	c=1 d=0.97531 t=481
+shan 	山	c=5 d=3.96484 t=481
+shang 	上	c=2 d=1.54739 t=481
+shang 	商	c=1 d=0.965605 t=481
+shang ye 	商业	c=1 d=0.960789 t=481
+she bei 	设备	c=1 d=0.970446 t=481
+she zhi 	设置	c=1 d=0.937067 t=481
+shen lun 	申论	c=1 d=0.970446 t=481
+shen me dong xi 	什么东西	c=1 d=0.985111 t=481
+sheng 	省	c=1 d=0.980199 t=481
+sheng cheng 	生成	c=1 d=0.97531 t=481
+sheng ji 	升级	c=1 d=0.995012 t=481
+shi 	事	c=2 d=1.6131 t=481
+shi 	时	c=1 d=0.965605 t=481
+shi 	是	c=1 d=0.985112 t=481
+shi fou 	是否	c=6 d=5.44923 t=481
+shi pin 	视频	c=7 d=5.38466 t=481
+shi yong 	使用	c=2 d=1.69474 t=481
+shou fei 	收费	c=1 d=0.946485 t=481
+shou le 	收了	c=1 d=0.99005 t=481
+shu chu 	输出	c=1 d=0.955997 t=481
+shu ju 	数据	c=1 d=0.927743 t=481
+shu liang 	数量	c=1 d=0.980199 t=481
+shu ru fa 	输入法	c=4 d=3.04073 t=481
+shu yi 	淑仪	c=1 d=0.980199 t=481
+shuang 	灀	c=1 d=0.985112 t=481
+shuang 	霜	c=1 d=0.995012 t=481
+song 	宋	c=2 d=1.74252 t=481
+sou gou 	搜狗	c=1 d=0.923116 t=481
+sou suo 	搜索	c=2 d=1.86028 t=481
+ta 	它	c=1 d=0.951229 t=481
+tang 	唐	c=1 d=1 t=477
+tang chao 	唐朝	c=2 d=1.5851 t=481
+tang ren jie 	唐人街	c=1 d=0.786628 t=481
+ti gao 	提高	c=1 d=1 t=466
+tong 	同	c=1 d=0.951229 t=481
+tong bu 	同步	c=12 d=8.97067 t=481
+tong guo 	通过	c=2 d=1.62609 t=481
+tong hua zhen 	童话镇	c=1 d=0.995012 t=481
+tong ku 	痛苦	c=1 d=1 t=468
+tong wen 	同文	c=1 d=0.995012 t=481
+tou 	投	c=3 d=2.36634 t=481
+tou ping 	投屏	c=1 d=0.843665 t=481
+tou su 	投诉	c=1 d=0.895834 t=481
+tui li 	推理	c=1 d=0.995012 t=481
+wai mao 	外贸	c=1 d=0.980199 t=481
+wan yi 	玩意	c=1 d=0.965606 t=481
+wang 	王	c=7 d=5.669 t=481
+wang pan 	网盘	c=1 d=0.937067 t=481
+wang zhan 	网站	c=2 d=1.87603 t=481
+wei cheng zhao yu yi qing chen 	渭城朝雨浥轻尘	c=1 d=0.99005 t=481
+wei dao 	味道	c=1 d=0.980199 t=481
+wei ran cheng feng 	蔚然成风	c=1 d=0.960789 t=481
+wei xin 	威信	c=1 d=1 t=456
+wei xin 	微信	c=4 d=3.94585 t=463
+wei xin 	维新	c=1 d=1 t=459
+wei xing 	卫星	c=1 d=1 t=458
+wei xing 	微型	c=1 d=1 t=457
+wei xing 	微星	c=3 d=2.93605 t=460
+wen ding 	稳定	c=1 d=0.946485 t=481
+wen jian 	文件	c=2 d=1.87156 t=481
+wen jie 	问界	c=1 d=0.955997 t=481
+wu fa 	无法	c=2 d=1.68079 t=481
+wu liu 	物流	c=1 d=0.891366 t=481
+xi le 	洗了	c=1 d=0.955997 t=481
+xi pi xiao lian 	嬉皮笑脸	c=1 d=0.951229 t=481
+xi tong 	系统	c=2 d=1.90362 t=481
+xia xian 	下线	c=1 d=0.970446 t=481
+xia zai 	下载	c=6 d=4.79157 t=481
+xian ka 	显卡	c=1 d=1 t=471
+xiang dang 	相当	c=1 d=0.985111 t=481
+xiao 	小	c=1 d=1 t=481
+xiao mi 	小米	c=1 d=0.960789 t=481
+xiao qi e 	小企鹅	c=1 d=0.980199 t=481
+xin li xue 	心理学	c=1 d=1 t=469
+xin yang 	信阳	c=1 d=0.965605 t=481
+xin yang shi 	信阳市	c=2 d=1.91678 t=481
+xing ce 	行测	c=1 d=0.97531 t=481
+xu yu wei yi 	虚与委蛇	c=1 d=0.904837 t=481
+xuan xiang 	选项	c=1 d=0.927743 t=481
+xun lei 	迅雷	c=1 d=0.985112 t=481
+ya 	呀	c=1 d=0.965606 t=481
+yi dong 	移动	c=2 d=1.90362 t=481
+yi ren zhi xia 	一人之下	c=1 d=1 t=481
+yi zhi 	一直	c=1 d=0.955997 t=481
+yi zhi 	一致	c=1 d=0.980199 t=481
+yin 	隐	c=1 d=0.970446 t=481
+ying shi 	影视	c=3 d=2.82539 t=481
+ying tai 	映泰	c=1 d=0.980199 t=481
+ying wei da 	英伟达	c=1 d=0.99005 t=481
+you 	有	c=3 d=2.74975 t=481
+you 	油	c=1 d=0.995012 t=481
+you dian yi si 	有点意思	c=1 d=0.96079 t=481
+you shen me 	有什么	c=1 d=0.99005 t=481
+yu 	与	c=2 d=1.86712 t=481
+yu fa 	愈发	c=1 d=0.778801 t=481
+yu fou 	与否	c=1 d=0.774916 t=481
+yuan tong 	圆通	c=1 d=1 t=441
+yun da 	韵达	c=1 d=1 t=442
+zai 	在	c=2 d=1.75273 t=481
+zan wu 	暂无	c=1 d=0.995012 t=481
+zen yang 	怎样	c=2 d=1.89786 t=481
+zhan 	站	c=1 d=0.927743 t=481
+zhan yong 	占用	c=1 d=0.99005 t=481
+zhang 	张	c=4 d=3.92105 t=481
+zhang jia 	涨价	c=1 d=0.965605 t=481
+zhao bu dao 	找不到	c=1 d=0.965605 t=481
+zhe 	这	c=2 d=1.54636 t=481
+zhi 	志	c=3 d=2.567 t=481
+zhi bo 	直播	c=1 d=0.927743 t=481
+zhi chi 	支持	c=9 d=6.90914 t=481
+zhi you 	只有	c=1 d=0.767206 t=481
+zhong 	中	c=4 d=3.19893 t=481
+zhong tong 	中通	c=1 d=1 t=440
+zhu ban 	主板	c=1 d=1 t=470
+zhu ti 	主题	c=1 d=1 t=481
+zi dong 	自动	c=1 d=0.771052 t=481
+zi ji 	自己	c=4 d=3.71408 t=481
+zi liao 	资料	c=1 d=1 t=481
+zi shen 	自身	c=1 d=0.891366 t=481
+zuo wei 	作为	c=2 d=1.79348 t=481
