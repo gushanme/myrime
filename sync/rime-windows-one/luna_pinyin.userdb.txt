@@ -1,9 +1,0 @@
-# Rime user dictionary
-#@/db_name	luna_pinyin
-#@/db_type	userdb
-#@/rime_version	1.11.2
-#@/tick	3
-#@/user_id	rime-windows-one
-juan 	卷	c=1 d=0.995012 t=3
-mao 	毛	c=1 d=1 t=3
-zhong yu 	終於	c=1 d=0.99005 t=3
