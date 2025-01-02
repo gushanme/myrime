@@ -15,7 +15,6 @@ patch:
     Shift_L: commit_code
     Shift_R: commit_code
   schema_list:
-    - {schema: luna_pinyin}
     - {schema: luna_pinyin_simp}
     - {schema: pinyin_simp}
     - {schema: terra_me}
@@ -23,5 +22,6 @@ patch:
     - {schema: boheme}
     - {schema: rime_me}
     - {schema: rime_frost}
+    - {schema: rime_ice}
   "menu": 
     "page_size": 8

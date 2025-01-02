@@ -55,6 +55,7 @@ engine:
     - selector
     - navigator
     - express_editor
+    - lua_processor@*codeLengthLimit_processor     # 使用Lua限制输入内容的最大长度(防止过长而卡顿)
   segmentors:
     - ascii_segmentor
     - matcher
@@ -74,19 +75,47 @@ engine:
     - reverse_lookup_translator@stroke
     #- reverse_lookup_translator                   # 反查模块，多标签情况下去除
     - echo_translator                             # ※ 没有候选词，返回字符
+    - lua_translator@*date_translator    # 时间、日期、星期
+    - lua_translator@*lunar              # 农历
+    - lua_translator@*number_translator  # 数字、金额大写
 
   filters:
     - simplifier
     - simplifier@emoji                              # Emoji
     - simplifier@traditionalize                     # 简繁切换
     - uniquifier                                    # 去重
+    - lua_filter@*corrector_filter               # 错音错字提示
 
+
+
+# 最大输入长度
+codeLengthLimit_processor: 25
+# Lua 配置：农历的触发关键字
+lunar: nl  # 农历： 二〇二三年冬月二十 癸卯年（兔）冬月二十
+
+# 错音错字提示
+corrector_filter:
+  # 当文字没有触发错字错音的情况下，保持原本的注释
+  keep_source_comment: false  
+
+# Lua 配置: 日期、时间、星期、ISO 8601、时间戳的触发关键字
+date_translator:
+  date: rq       # 日期： 2022-11-29
+  time: sj       # 时间： 18:13
+  week: xq       # 星期： 星期二
+  datetime: dt   # ISO 8601： 2022-11-29T18:13:11+08:00
+  timestamp: ts  # 时间戳： 1669716794
 
 
 # 主翻译器，拼音
 translator:
   dictionary: terra_pinyin
   initial_quality: 1.6
+  spelling_hints: 8              # corrector.lua ：为了让错音错字提示的 Lua 同时适配全拼双拼，将拼音显示在 comment 中
+  always_show_comments: true     # corrector.lua ：Rime 默认在 preedit 等于 comment 时取消显示 comment，这里强制一直显示，供 corrector.lua 做判断用。
+  comment_format:                # 标记拼音注释，供 corrector.lua 做判断用
+    - xform/^/［/
+    - xform/$/］/
   preedit_format:              # preedit_format 影响到输入框的显示和“Shift+回车”上屏的字符
     - xform/([jqxy])v/$1u/     # 显示为 ju qu xu yu
     # - xform/([nl])v/$1ü/     # 显示为 nü lü
@@ -203,6 +232,9 @@ recognizer:
     stroke: "us[a-z]*'?$"
     radical_lookup: "uq[a-z]*'?$"
     uppercase: ""  # 覆写默认的 uppercase 使其可以在输入大写后，输入数字
+    rmb: "^R[0-9]+[.]?[0-9]*"        # 响应 lua_translator@number_translator 脚本将自动获取第 2 个字符作为触发前缀
+    gregorian_to_lunar: "^N[0-9]{1,8}"  # 响应 lua_translator@Chinese_lunar_calendar 公历转农历，输入 N20240115 得到「二〇二四年腊月初五」，脚本将自动获取第 2 个字符作为触发前缀
+
 
 
 # 从 default 继承快捷键

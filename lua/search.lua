@@ -1,3 +1,5 @@
+-- 辅码，https://github.com/mirtlecn/rime-radical-pinyin/blob/master/search.lua.md
+--
 -- Copyright (C) [Mirtle](https://github.com/mirtlecn)
 -- License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 -- 使用说明：<https://github.com/mirtlecn/rime-radical-pinyin/blob/master/search.lua.md>
@@ -32,6 +34,7 @@ local function update_dict_entry( s, code, mem, proj )
         return 0
     end
     local e = DictEntry()
+    s = s:gsub( '^%s+', '' ):gsub( '%s+$', '' )
     e.text = s
 
     local pos = {}
@@ -294,6 +297,8 @@ function f.fini( env )
     if env.if_reverse_lookup or env.if_schema_lookup then
         env.notifier:disconnect()
         env.commit_notifier:disconnect()
+        if env.mem and env.mem.disconnect then env.mem:disconnect() end
+        if env.search and env.search.disconnect then env.search:disconnect() end
         if env.mem or env.search or env.db_table then
             env.db_table = nil
             env.mem = nil
