@@ -13,6 +13,7 @@ import_tables:
   - cn_dicts/others   # 一些杂项
   - cn_dicts/cikua
   - cn_dicts/cikub
+  - cn_dicts/ziji
   - cn_dicts/colist
   - cn_dicts/sogouw
   - cn_dicts/symbols
