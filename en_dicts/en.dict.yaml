@@ -14,7 +14,7 @@
 # 转化应当大写的单词
 ---
 name: en
-version: "2024-12-06"
+version: "2024-05-31"
 sort: by_weight
 ...
 # +_+
@@ -220,6 +220,7 @@ activated	activated
 activation	activation
 active	active
 actively	actively
+ActiveX	ActiveX
 activism	activism
 activist	activist
 activists	activists
@@ -1153,6 +1154,7 @@ artists	artists
 arts	arts
 artwork	artwork
 Aruba	Aruba
+arXiv	arXiv
 as	as
 # asa	asa
 ASAP	ASAP
@@ -1356,7 +1358,7 @@ attribution	attribution
 ATV	ATV
 # atx	atx
 # au	au
-auburn	auburn
+Auburn	Auburn
 Auch	Auch
 Auckland	Auckland
 auction	auction
@@ -1412,7 +1414,6 @@ auth	auth
 authentic	authentic
 authenticated	authenticated
 authentication	authentication
-authenticator	authenticator
 authenticity	authenticity
 author	author
 authored	authored
@@ -1451,6 +1452,7 @@ autumn	autumn
 AUX	AUX
 auxiliary	auxiliary
 AV	AV
+Ava	Ava
 avail	avail
 availability	availability
 available	available
@@ -2783,6 +2785,7 @@ cancellation	cancellation
 cancellations	cancellations
 cancelled	cancelled
 cancer	cancer
+Cancer	Cancer
 cancers	cancers
 # Cancun	Cancun
 candid	candid
@@ -2930,6 +2933,7 @@ carved	carved
 carver	carver
 carving	carving
 Cary	Cary
+CAS	CAS
 casa	casa
 cascade	cascade
 cascading	cascading
@@ -3203,7 +3207,6 @@ chaser	chaser
 chasing	chasing
 chassis	chassis
 chat	chat
-chatbot	chatbot
 chateau	chateau
 Chatham	Chatham
 chats	chats
@@ -3519,7 +3522,6 @@ CLI	CLI
 clic	clic
 click	click
 clicked	clicked
-clicker	clicker
 clicking	clicking
 clicks	clicks
 client	client
@@ -5257,7 +5259,6 @@ despair	despair
 despatch	despatch
 desperate	desperate
 desperately	desperately
-desperation	desperation
 despise	despise
 despite	despite
 dessert	dessert
@@ -5731,8 +5732,6 @@ dog	dog
 doge	doge
 dogg	dogg
 dogs	dogs
-dogsbody	dogsbody
-dogsleep	dogsleep
 # doi	doi
 doing	doing
 Dolby	Dolby
@@ -6383,7 +6382,6 @@ encouraged	encouraged
 encouragement	encouragement
 encourages	encourages
 encouraging	encouraging
-encrypt	encrypt
 encrypted	encrypted
 encryption	encryption
 encyclopedia	encyclopedia
@@ -6530,7 +6528,6 @@ epic	epic
 epidemic	epidemic
 epidemiology	epidemiology
 epilepsy	epilepsy
-epilogue	epilogue
 epinions	epinions
 episcopal	episcopal
 episode	episode
@@ -7924,6 +7921,9 @@ Gambia	Gambia
 gamble	gamble
 gambling	gambling
 game	game
+gameboy	gameboy
+gamecube	gamecube
+GameFAQs	GameFAQs
 gameplay	gameplay
 gamer	gamer
 gamers	gamers
@@ -8215,6 +8215,7 @@ gnaw	gnaw
 gnome	gnome
 gnu	gnu
 GNU	GNU
+Go	Go
 go	go
 # goa	goa
 goal	goal
@@ -8538,6 +8539,7 @@ gyms	gyms
 gypsy	gypsy
 Gypsy	Gypsy
 # gz	gz
+Gzip	Gzip
 # h	h
 # ha	ha
 # haas	haas
@@ -9317,6 +9319,7 @@ Ian	Ian
 Ibiza	Ibiza
 IBM	IBM
 ibn	ibn
+iBook	iBook
 # ic	ic
 ICANN	ICANN
 # icc	icc
@@ -10052,6 +10055,7 @@ IP	IP
 IPC	IPC
 IPO	IPO
 iPod	iPod
+# ipods	ipods
 # ips	ips
 IPSec	IPSec
 Ipswich	Ipswich
@@ -10214,6 +10218,7 @@ jasmine	jasmine
 Jason	Jason
 jasper	jasper
 Java	Java
+JavaScript	JavaScript
 jaw	jaw
 jaws	jaws
 jay	jay
@@ -10365,6 +10370,8 @@ JPEG	JPEG
 JPG	JPG
 # jpy	jpy
 # jr	jr
+# js	js
+JSP	JSP
 # jt	jt
 # ju	ju
 Juan	Juan
@@ -11006,6 +11013,7 @@ lex	lex
 Lexar	Lexar
 lexicon	lexicon
 Lexington	Lexington
+LexisNexis	LexisNexis
 lexmark	lexmark
 lexus	lexus
 # lf	lf
@@ -11319,7 +11327,6 @@ loops	loops
 loose	loose
 loosely	loosely
 loosen	loosen
-loot	loot
 Lopez	Lopez
 lord	lord
 lords	lords
@@ -11441,7 +11448,7 @@ lyrics	lyrics
 # lys	lys
 # m	m
 # ma	ma
-mac	mac
+Mac	Mac
 Macau	Macau
 MacDonald	MacDonald
 macedonia	macedonia
@@ -12196,7 +12203,6 @@ miniature	miniature
 miniatures	miniatures
 minimal	minimal
 minimize	minimize
-minimized	minimized
 minimizing	minimizing
 minimum	minimum
 mining	mining
@@ -12634,7 +12640,7 @@ mutually	mutually
 muze	muze
 # mv	mv
 MVC	MVC
-MVP	MVP
+# mvp	mvp
 # mw	mw
 # mx	mx
 my	my
@@ -12919,10 +12925,9 @@ niece	niece
 Nielsen	Nielsen
 nifty	nifty
 Nigel	Nigel
-Niger	Niger
+niger	niger
 Nigeria	Nigeria
 Nigerian	Nigerian
-nigger	nigger
 night	night
 nightclub	nightclub
 nightlife	nightlife
@@ -13614,7 +13619,6 @@ oversight	oversight
 oversized	oversized
 overstock	overstock
 overtake	overtake
-overtaken	overtaken
 overthrow	overthrow
 overtime	overtime
 overture	overture
@@ -13946,6 +13950,8 @@ PCMCIA	PCMCIA
 # PDA	PDA
 # PDAS	PDAS
 # pdb	pdb
+PDF	PDF
+PDFs	PDFs
 # pdp	pdp
 # PDT	PDT
 # pe	pe
@@ -14149,6 +14155,7 @@ Pfizer	Pfizer
 # pg	pg
 # pga	pga
 # pgp	pgp
+# pgSQL	pgSQL
 # ph	ph
 phantom	phantom
 # phantomnode	phantomnode
@@ -14217,6 +14224,7 @@ photos	photos
 Photoshop	Photoshop
 # photosmart	photosmart
 PHP	PHP
+phpBB	phpBB
 phrase	phrase
 phrases	phrases
 # phs	phs
@@ -17691,7 +17699,6 @@ snorkeling	snorkeling
 snow	snow
 snowboard	snowboard
 snowboarding	snowboarding
-snowflake	snowflake
 snowmobile	snowmobile
 snowstorm	snowstorm
 snowy	snowy
@@ -19223,6 +19230,7 @@ thing	thing
 things	things
 think	think
 thinking	thinking
+ThinkPad	ThinkPad
 thinks	thinks
 third	third
 thirds	thirds
@@ -19490,7 +19498,6 @@ tor	tor
 Torah	Torah
 torch	torch
 torches	torches
-torchlight	torchlight
 tori	tori
 Torino	Torino
 torment	torment
@@ -20208,6 +20215,8 @@ urging	urging
 URI	URI
 urinary	urinary
 urine	urine
+URL	URL
+URLs	URLs
 urn	urn
 urology	urology
 Uruguay	Uruguay
@@ -20857,6 +20866,7 @@ weber	weber
 # webhosting	webhosting
 # webinar	webinar
 weblog	weblog
+# weblogic	weblogic
 weblogs	weblogs
 # webmail	webmail
 webmaster	webmaster
@@ -21010,8 +21020,6 @@ whose	whose
 why	why
 # wi	wi
 Wichita	Wichita
-Wick	Wick
-wick	wick
 wicked	wicked
 wicker	wicker
 wide	wide
@@ -21338,7 +21346,7 @@ XXL	XXL
 # ya	ya
 yacht	yacht
 yachts	yachts
-yahoo	yahoo
+Yahoo	Yahoo
 Yakima	Yakima
 Yale	Yale
 Yamaha	Yamaha
@@ -21424,7 +21432,7 @@ zeal	zeal
 Zealand	Zealand
 zebra	zebra
 Zelda	Zelda
-zen	zen
+Zen	Zen
 zenith	zenith
 zeppelin	zeppelin
 zero	zero
@@ -21453,6 +21461,7 @@ zoofilia	zoofilia
 zoology	zoology
 zoom	zoom
 zoophilia	zoophilia
+Zope	Zope
 # zshops	zshops
 # zu	zu
 # zum	zum
